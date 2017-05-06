@@ -17,3 +17,8 @@ body  {
   background-color: red;
    transition: background-color 7s;*/
  }body
+ .play_again {
+	margin-top: 10%;
+	color: red;
+	
+}
